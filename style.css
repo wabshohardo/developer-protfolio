@@ -78,7 +78,7 @@ h1 {
 .experiances-section {
   background-image: url(images/exp-bg.png);
   background-repeat: no-repeat;
-  flex-direction: row-reverse;
+  /* flex-direction: row-reverse; */
 }
 
 footer {
